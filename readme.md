@@ -16,23 +16,16 @@
 
 
 ### EndPoint User-
-- http://localhost:8080 (home) 
+- http://localhost:8080 
 - http://localhost:8080/login    
    - Registro de usuario.
    - Login Usuario Registrado Local.
    - Login Github.
-- http://localhost:8080/profile (Datos Perfil) 
-- http://localhost:8080/products (Lista de productos) 
-- http://localhost:8080/api/sessions/current (Datos session) 
+- http://localhost:8080/profile 
+- http://localhost:8080/products 
+- http://localhost:8080/api/sessions/current 
 
 ------------
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ###EndPoint Products
 
 GET Products
